@@ -1,0 +1,22 @@
+*{
+   
+}
+
+body{
+background-color: black;
+color: white;
+font-family: 'Inter', sans-serif;
+}
+
+nav li{
+    display: inline-block;
+    
+}
+
+nav li a{
+    color: white;
+    display: inline-block;
+    text-decoration-line: none;
+    padding: 50px;
+    
+}
