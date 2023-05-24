@@ -5,10 +5,9 @@ font-family: 'Inter', sans-serif;
 }
 
 nav ul{
-    max-width: 800px;
-    list-style: none;
-    padding: 0px;  
-    margin: 0;     
+    max-width: 10000px; 
+    justify-content: center;
+    padding-left: 200px;    
 }
 
 nav ul li{
@@ -17,17 +16,6 @@ nav ul li{
 
 nav ul li a{
     color: rgb(255, 255, 255);
-    padding: 20px;
-    display: inline-block;
+    padding: 100px;
     text-decoration: none;
-    transition: color;
-}
-
-nav ul li a:hover{
-    color: rgb(183, 221, 255);
-}
-
-nav ul li a{
-    float: ;
-    
 }
